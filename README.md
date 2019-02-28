@@ -1,5 +1,7 @@
 # Games
-                           Simple Terminal or GUI games written for fun 
-                               These are personal ongoing projects 
-                             feel free to do what you like with them 
-                               no contributions will be accepted 
+                           Simple Terminal or GUI games written for fun. 
+                               These are personal ongoing projects. 
+                             Feel free to do what you like with them. 
+                               
+                               No contributions will be accepted.
+                               
