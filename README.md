@@ -1,6 +1,5 @@
-# Games
-                           Simple Terminal or GUI games written for fun. 
-                               These are personal ongoing projects. 
-                             Feel free to do what you like with them. 
-                          
-                               
+# Simple-Fun-Tools-and-Games
+
+These are games and projects I am doing in my leisure time.
+I am not accepting contributions of any kind since they are for my enjoyment.
+
