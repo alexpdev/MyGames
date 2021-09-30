@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Virtual enviornment and temp directories
+env/
+other/
+
+
+# OS Specific Binaries
+*.pyc
+__pycache__/
